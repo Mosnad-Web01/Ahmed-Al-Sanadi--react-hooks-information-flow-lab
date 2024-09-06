@@ -1,5 +1,5 @@
 // Header.js
-import { getByDisplayValue } from '@testing-library/react';
+
 import React from 'react';
 
 function Header({ onDarkModeClick, isDarkMode }) {
